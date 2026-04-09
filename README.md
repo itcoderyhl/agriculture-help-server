@@ -1,2 +1,82 @@
-# agriculture-help-server
-基于SpringBoot3+Vue3前后端分离的扶贫惠农推介系统，系统包含管理员、用户角色，功能如下： 管理员：首页统计（商品统计、计划报名统计、销售金额统计）；用户管理；扶贫计划；报名管理；惠农商城；论坛管理（版块分类、帖子管理、评论管理）；捐款活动；捐款管理；政策新闻；系统留言、公告信息。 用户：注册；登录；首页；扶贫计划（计划详情、报名、报名名单）；惠农商城（分类、商品列表、商品详情、购物车、收藏、下单、评论）；互助论坛（版块、帖子列表、帖子详情、点赞、评论）；扶贫捐赠（详情、捐赠、捐赠名单）；政策新闻；系统留言、个人信息、修改密码。用户还具有个人中心，功能包括：计划报名、商品订单、商品评论、商品收藏、我的帖子、帖子评论、帖子点赞、扶贫捐赠、系统留言、个人资料、修改密码。
+## 【原创】SpringBoot3+Vue3前后端分离的扶贫惠农推介系统
+
+## 系统介绍
+
+基于SpringBoot3+Vue3前后端分离的扶贫惠农推介系统，系统包含管理员、用户角色，功能如下：
+- 管理员：首页统计（商品统计、计划报名统计、销售金额统计）；用户管理；扶贫计划；报名管理；惠农商城（商品种类、商品管理、订单管理、评论管理）；论坛管理（版块分类、帖子管理、评论管理）；捐款活动；捐款管理；政策新闻；系统留言、公告信息。
+- 用户：注册；登录；首页；扶贫计划（计划详情、报名、报名名单）；惠农商城（分类、商品列表、商品详情、购物车、收藏、下单、评论）；互助论坛（版块、帖子列表、帖子详情、点赞、评论）；扶贫捐赠（详情、捐赠、捐赠名单）；政策新闻；系统留言、个人信息、修改密码。用户还具有个人中心，功能包括：计划报名、商品订单、商品评论、商品收藏、我的帖子、帖子评论、帖子点赞、扶贫捐赠、系统留言、个人资料、修改密码。
+系统界面美观大方，功能丰富，使用了SpringBoot3、Vue3、Element-Plus、Echarts等技术栈，有需要可提供指导。
+
+项目由本人原创开发，经过多次测试，项目运行无问题，请放心使用，作者QQ：1344127185。
+
+## 使用技术
+
+服务器端技术栈：
+
+- Springboot3
+- SpringMvc
+- Mybatis
+- MySQL
+
+前端技术栈：
+
+- vue3
+- element-plus
+- axios
+- echarts
+
+## 环境介绍
+
+- IDEA集成环境
+- JDK17+
+- MySQL8.0+
+
+可提供所有运行软件、远程安装、技术指导。
+
+## 运行截图：
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/1.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/2.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/3.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/4.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/5.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/6.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/7.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/8.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/9.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/10.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/11.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/12.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/13.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/14.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/15.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/16.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/17.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/18.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/19.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/20.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/21.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/22.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/23.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/24.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/25.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/26.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/27.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/28.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/34.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/35.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/36.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/37.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/38.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/39.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/40.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/41.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/42.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/43.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/44.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/45.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/46.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/47.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/48.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/49.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/50.png)
+![](https://github.com/itcoderyhl/agriculture-help-server/blob/main/images/51.png)
